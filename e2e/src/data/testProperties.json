@@ -1,0 +1,25 @@
+{
+    "ActiveHeader" : "Welcome Trevor!",
+    "ActiveSubHeading" : "It appears that this is your first time visiting. Starting a requisite variety session is easy. Simply click the Create button and go through the guided steps. All your requisite variety sessions will be displayed here for easy access later.",
+    "Create" : "Create",
+    "Wizard" : "wizard",
+
+    "Step1Header" : "Create Requisite Variety Project",
+    "RequiredFieldError" : "This field is required",
+    "AtLeast3CharError" : "Must be at least 3 characters",
+     "Step1FormValidation" : {
+      
+     },
+
+    "Step1FormData":{
+      "SystemInFocus" : "DummySystem",
+      "ProjectName" : "DummyProject",
+      "ChallengeOriginate" : "Inside the Orgnization",
+      "ExpectedPeople" : 30,
+      "TargetDate" : "05/11/2019",
+      "ChallengeQuestion" : "This is automated dummy session creation."
+    },
+
+
+    "step4DialogHeader" : "Add New Item"
+}
